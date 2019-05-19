@@ -1,2 +1,2 @@
 # Simu
-Simulateur Oghame
+Simulateur Ogame
